@@ -20,6 +20,9 @@ O  trabalho que deve ser realizado para entregar um produto, serviço ou resulta
 ## Convenções:
 `Nomes de Entidades` são representadas com ``` `Nomes de Entidades` ```.
 
+## Glossário:  
+Esse artefato define termos importantes utilizados pelo projeto e estabelece um vocabulário comum.  
+Acesse [glossário aqui](glossario/glossario.md).
 
 ---
 ## Módulos:
