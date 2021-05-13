@@ -6,7 +6,7 @@ A especificação do caso de uso (UCS) documenta o que o sistema faz do ***ponto
 
 **Ator**: é um papel que tipicamente estimula/solicita ações/eventos do sistema e recebe um resultado. Pode ser uma pessoa, um timer, um hardware ou outro gatilho externo.  
 
-**Caso de uso**: Descreve as operações que o sistema deve cumprir para cada usuário, desconsiderando a estrutura interna do sistema. Tipicamente descrito pelo nome (*verbo no infinitivo + substantivo*), atores envolvidos, condições prévias, pós-condição, fluxo padrão, fluxos alternativos, pontos de extensão e casos de uso incluídos.   
+**Caso de uso**: Descreve as operações que o sistema deve cumprir para cada usuário, desconsiderando a estrutura interna do sistema. Tipicamente descrito pelo nome (*verbo no infinitivo + substantivo*), atores envolvidos, condições prévias, pós-condição, fluxo padrão, fluxos alternativos, pontos de extensão e casos de uso incluídos. [Exemplo 1 (em inglês)](exemplo1_ucs_ingles.md)
 
 **Regra de Negócio**: Uma diretiva específica, testável e sobre a qual se podem tomar decisões que está sob o controle da empresa/software e oferece suporte a uma política de negócios.
 
