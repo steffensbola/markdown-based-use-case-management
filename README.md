@@ -42,4 +42,4 @@ Clique [**aqui**](roadmap/_roadmap.md) para acompanhar o roadmap do projeto.
 
 ---
 # Dicas, anotações e recursos extras
-Clique [**aqui**](roadmap/_roadmap.md) para ver algumas dicas simples para levar em consideração na hora de escrever a especificação dos casos de uso.
+Clique [**aqui**](dicas_e_anotacoes/dicas.md) para ver algumas dicas simples para levar em consideração na hora de escrever a especificação dos casos de uso.
