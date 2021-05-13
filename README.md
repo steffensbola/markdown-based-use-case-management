@@ -11,20 +11,25 @@ As características e funções que descrevem um produto, serviço ou resultado.
 
 O  trabalho que deve ser realizado para entregar um produto, serviço ou resultado com as características e funções especificadas. O termo “escopo do projeto” às vezes é visto como incluindo o escopo do produto.
 
----
+
 ## Servidores
 - Homologação: homologacao:80 / homologacao:81
 - Produção: produção:80 / producao:81
 
----
+
 ## Convenções:
-`Nomes de Entidades` são representadas com ``` `Nomes de Entidades` ```.
+Nesta doumentação utiliza-se a seguinte convenção para identificar:  
+`Nomes de Entidades` são representadas com ``` `Nomes de Entidades` ```.  
+`Nomes de Atores` são representadas com ``` `Nomes de Atores` ```.  
+`Nomes de Casos de Uso` são representadas com ``` `Nomes de Casos de Uso` ```.  
+`CONSTANTES` são representadas com ``` `CONSTANTES` ```.  
+***Títulos de Janela***  e outros elementos em tela são representados com ``` ***Títulos de Janela***```.  
 
 ## Glossário:  
 Esse artefato define termos importantes utilizados pelo projeto e estabelece um vocabulário comum.  
 Acesse [glossário aqui](glossario/glossario.md).
 
----
+
 ## Módulos:
 |Nome|Descricao|
 |---------------------------|----------------|
@@ -34,13 +39,16 @@ Acesse [glossário aqui](glossario/glossario.md).
 |[**Gestão de Documentos**](modulos/gestao-documentos/_modulo.md)|Módulo responsável pelo controle de autenticação e roles de usuário |
 |[**Integração com terceiros**](modulos/integracao-terceiros/_modulo.md)|Módulo responsável pelo controle de autenticação e roles de usuário|
 
----
-## Reuniões com cliente
-Clique [**aqui**](reunioes/_reunioes.md) para visualizar as reuniões realizadas com o cliente.
 
----
-## Roadmap
-Clique [**aqui**](roadmap/_roadmap.md) para acompanhar o roadmap do projeto.
+## Reuniões com cliente  
+Para todas as reuniões com clientes gere um registro documentando os principais tópicos discutidos e deliberações.  
+Clique [**aqui para visualizar as reuniões realizadas com o cliente**](reunioes/_reunioes.md).
+
+
+## Roadmap  
+O Roadmap apresenta uma visão geral de alto nível das metas e resultados do projeto apresentados em um cronograma. É uma ferramenta útil para gerenciar as expectativas das partes interessadas, bem como para comunicar planos e coordenar recursos com outras equipes.
+
+Clique [**aqui para acompanhar o roadmap do projeto**](roadmap/_roadmap.md).
 
 
 ---

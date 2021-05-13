@@ -1,10 +1,24 @@
 # Reuniões
-Sumário de reuniões realizadas com o cliente ...
+Sumário de reuniões realizadas com o cliente.  
+
+>Antes de marcar uma reunião:  
+>>  1. Defina um **objetivo claro**.  
+>>  2. Compartilhe **com antecedência** a pauta e o material de apoio.  
+>>  3. Convide as pessoas certas  
+
+>    Durante a reunião:  
+>>  1. Mantenha um **log das deliberações**.  
+>>  2. Confirme que não existem ambiguidades (termos que podem ser interpretados de forma disinta por outra pessoa).  
+>>  3. Anote as ideias importantes.  
+
+>Depois da reunião:  
+>>    1. Atualize o glossário
+>>    2. Formalize o entendimento e encminhe para revisão com os demais participantes.  
+
 
 ---
----
 # 01/fev/2021
-_Participantes_: 
+_Participantes_:  
 _Local_:  
 _Pauta_:  
 ## Ata
@@ -18,7 +32,7 @@ _Pauta_:
 - Deliberações ...  
 
 
----
+
 ---
 # 15/fev/2021
 _Participantes_:  
@@ -34,7 +48,7 @@ _Pauta_:
 1. Demanda ...
 1. Deliberações ...  
 
----
+
 ---
 # 01/fev/2021
 _Participantes_:   
