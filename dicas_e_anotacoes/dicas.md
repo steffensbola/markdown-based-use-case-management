@@ -85,4 +85,6 @@ No diagrama a seta aponta do do caso mais especializado para o caso mais geral. 
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-[GitHub Markup](https://github.com/github/markup/blob/master/README.md)
+[GitHub Markup](https://github.com/github/markup/blob/master/README.md)  
+
+[RUP for value creation - Tarefa: Detalhar um Caso de Uso](https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/tasks/detail_a_use_case_D9BECBF4.html)
