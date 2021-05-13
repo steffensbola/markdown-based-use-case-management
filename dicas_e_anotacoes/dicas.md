@@ -71,13 +71,21 @@ Importante: _Descreva, em breves palavras, cada relação de extensão que você
 > Nota:   
 No diagrama a seta aponta do caso extensão para o caso base. Lê se que o caso extensão extende o caso base.
 
+
 ### Generalização:
 A Generalização é usada quando temos **um caso base que possui diferentes especializações e inclui comportamento ou sobrescreve o caso de uso base**.
 > Exemplo:  
 Pagar Fatura pode ser generalizado por Pagar com Boleto, Pagar com Cartão de Crédito ou Pagar em Espécie.  
 
 > Nota:  
-No diagrama a seta aponta do do caso mais especializado para o caso mais geral. Ex: Pagar com cartão aponta para pagar fatura.
+No diagrama a seta aponta do do caso mais especializado para o caso mais geral. Ex: Pagar com cartão aponta para pagar fatura.  
+
+
+## Referências:  
+1.  [Diretriz: Relacionamento de Extensão (IBM RUP)](https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/guidances/guidelines/extend-relationship_EF38D814.html)
+
+1.  [Diretriz: Relacionamento de Inclusão (IBM RUP)](https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/guidances/guidelines/include-relationship_5AE2718.html)
+
 
 ## Outros Recursos
 
@@ -88,3 +96,7 @@ No diagrama a seta aponta do do caso mais especializado para o caso mais geral. 
 [GitHub Markup](https://github.com/github/markup/blob/master/README.md)  
 
 [RUP for value creation - Tarefa: Detalhar um Caso de Uso](https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/tasks/detail_a_use_case_D9BECBF4.html)
+
+[End-to-End UML: Use Case Specification (ModernAnalyst.com)](https://www.modernanalyst.com/Resources/Articles/tabid/115/ID/2016/End-to-End-UML-Use-Case-Specification.aspx)
+
+[Business Analysis Templates & Aides (ModernAnalyst.com) **Login Required! (free)**](https://www.modernanalyst.com/Resources/Templates/tabid/146/articleType/CategoryView/categoryId/194/Use-Cases.aspx)
