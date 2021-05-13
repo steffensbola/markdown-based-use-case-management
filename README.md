@@ -25,19 +25,19 @@ O  trabalho que deve ser realizado para entregar um produto, serviço ou resulta
 ## Módulos:
 |Nome|Descricao|
 |---------------------------|----------------|
-|[**Autenticação**](modulos\autenticacao\_modulo.md) | Módulo responsável pelas funcionalidades de controle de autenticação e roles de usuário |
-|[**Cadastro de Pessoas**](modulos\cadastro\_modulo.md)|Módulo responsável pelas funcionalidades de cadastro de pessoas, endereço, email, telefone, etc. |
-|[**Financeiro**](modulos\financeiro\_modulo.md) | Módulo responsável pelas funcionalidades de controle financeiro (débitos, pagamentos, boletos, formas de pagamento) |
-|[**Gestão de Documentos**](modulos\gestao-documentos\_modulo.md)|Módulo responsável pelo controle de autenticação e roles de usuário |
-|[**Integração com terceiros**](modulos\integracao-terceiros\_modulo.md)|Módulo responsável pelo controle de autenticação e roles de usuário|
+|[**Autenticação**](modulos/autenticacao/_modulo.md) | Módulo responsável pelas funcionalidades de controle de autenticação e roles de usuário |
+|[**Cadastro de Pessoas**](modulos/cadastro/_modulo.md)|Módulo responsável pelas funcionalidades de cadastro de pessoas, endereço, email, telefone, etc. |
+|[**Financeiro**](modulos/financeiro/_modulo.md) | Módulo responsável pelas funcionalidades de controle financeiro (débitos, pagamentos, boletos, formas de pagamento) |
+|[**Gestão de Documentos**](modulos/gestao-documentos/_modulo.md)|Módulo responsável pelo controle de autenticação e roles de usuário |
+|[**Integração com terceiros**](modulos/integracao-terceiros/_modulo.md)|Módulo responsável pelo controle de autenticação e roles de usuário|
 
 ---
 ## Reuniões com cliente
-Clique [**aqui**](reunioes\_reunioes.md) para visualizar as reuniões realizadas com o cliente.
+Clique [**aqui**](reunioes/_reunioes.md) para visualizar as reuniões realizadas com o cliente.
 
 ---
 ## Roadmap
-Clique [**aqui**](roadmap\_roadmap.md) para acompanhar o  roadmap do projeto.
+Clique [**aqui**](roadmap/_roadmap.md) para acompanhar o  roadmap do projeto.
 
 
 ---
