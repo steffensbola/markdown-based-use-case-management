@@ -33,22 +33,22 @@ Acesse [glossário aqui](glossario/glossario.md).
 ## Módulos:
 |Nome|Descricao|
 |---------------------------|----------------|
-|[**Autenticação**](modulos/autenticacao/_modulo.md) | Módulo responsável pelas funcionalidades de controle de autenticação e roles de usuário |
-|[**Cadastro de Pessoas**](modulos/cadastro/_modulo.md)|Módulo responsável pelas funcionalidades de cadastro de pessoas, endereço, email, telefone, etc. |
-|[**Financeiro**](modulos/financeiro/_modulo.md) | Módulo responsável pelas funcionalidades de controle financeiro (débitos, pagamentos, boletos, formas de pagamento) |
-|[**Gestão de Documentos**](modulos/gestao-documentos/_modulo.md)|Módulo responsável pelo controle de autenticação e roles de usuário |
-|[**Integração com terceiros**](modulos/integracao-terceiros/_modulo.md)|Módulo responsável pelo controle de autenticação e roles de usuário|
+|[**Autenticação**](modulos/autenticacao/index.md) | Módulo responsável pelas funcionalidades de controle de autenticação e roles de usuário |
+|[**Cadastro de Pessoas**](modulos/cadastro/index.md)|Módulo responsável pelas funcionalidades de cadastro de pessoas, endereço, email, telefone, etc. |
+|[**Financeiro**](modulos/financeiro/index.md) | Módulo responsável pelas funcionalidades de controle financeiro (débitos, pagamentos, boletos, formas de pagamento) |
+|[**Gestão de Documentos**](modulos/gestao_documentos/index.md)|Módulo responsável pelo controle de autenticação e roles de usuário |
+|[**Integração com terceiros**](modulos/integracao_terceiros/index.md)|Módulo responsável pelo controle de autenticação e roles de usuário|
 
 
 ## Reuniões com cliente  
 Para todas as reuniões com clientes gere um registro documentando os principais tópicos discutidos e deliberações.  
-Clique [**aqui para visualizar as reuniões realizadas com o cliente**](reunioes/_reunioes.md).
+Clique [**aqui para visualizar as reuniões realizadas com o cliente**](reunioes/index.md).
 
 
 ## Roadmap  
 O Roadmap apresenta uma visão geral de alto nível das metas e resultados do projeto apresentados em um cronograma. É uma ferramenta útil para gerenciar as expectativas das partes interessadas, bem como para comunicar planos e coordenar recursos com outras equipes.
 
-Clique [**aqui para acompanhar o roadmap do projeto**](roadmap/_roadmap.md).
+Clique [**aqui para acompanhar o roadmap do projeto**](roadmap/index.md).
 
 
 ---
