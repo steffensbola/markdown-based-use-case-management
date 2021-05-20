@@ -100,3 +100,5 @@ No diagrama a seta aponta do do caso mais especializado para o caso mais geral. 
 [End-to-End UML: Use Case Specification (ModernAnalyst.com)](https://www.modernanalyst.com/Resources/Articles/tabid/115/ID/2016/End-to-End-UML-Use-Case-Specification.aspx)
 
 [Business Analysis Templates & Aides (ModernAnalyst.com) **Login Required! (free)**](https://www.modernanalyst.com/Resources/Templates/tabid/146/articleType/CategoryView/categoryId/194/Use-Cases.aspx)
+
+[Chapter 7: Documenting Use Cases](https://www.ibm.com/developerworks/rational/library/content/legacy/parttwo/1000/0670/0670_Schneider_Ch07.pdf)
